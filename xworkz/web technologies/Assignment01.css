@@ -1,0 +1,38 @@
+.body{
+    background-color:white;
+
+}
+
+h1{
+    background-color:black;
+    color:white;
+    top=0;
+    margin:0;
+}
+
+
+h2{
+    background-color:black;
+    color:white;
+}
+b{
+    color:red;
+    font-family:'Franklin Gothic Medium','Arial Narrow',Arial,sans-serif;
+}
+
+.course{
+    width:30%;
+    height:100%;
+    float:left;
+}
+
+.desc{
+    width:70%;
+    height:100%;
+    float:right;
+}
+
+.intro{
+    background-color:black;
+    color:white;
+}
